@@ -19,7 +19,7 @@ An object represents an element of Word, such as a document, a paragraph, a book
 
 A property is an attribute of an object or an aspect of its behavior. For example, properties of a document include its name, its content, and its save status, and whether change tracking is turned on. To change the characteristics of an object, you change the values of its properties.
 
-To set the value of a property, follow the reference to an object with a period, the property name, an equal sign, and the new property value. The following example turns on change tracking in the document named "MyDoc.doc".
+To set the value of a property, follow the reference to an object with a period, the property name, an equal sign, and the new property value. The following example turns on change tracking in the document named "Sales.doc".
 
 
 ```vb
